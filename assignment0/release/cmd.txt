@@ -1,0 +1,7 @@
+.\assignment0 -input fern.txt -points 50000 -iters 30 -size 400 -output fern.tga
+
+.\assignment0 -input dragon.txt -points 50000 -iters 15 -size 400 -output dragon.tga
+
+.\assignment0 -input giant_x.txt -points 50000 -iters 30 -size 400 -output giant_x.tga
+
+.\assignment0 -input sierpinski.txt -points 10000 -iters 30 -size 200 -output sierpinski.tga
