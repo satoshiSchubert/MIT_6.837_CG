@@ -1,0 +1,9 @@
+﻿  object3d.cpp
+d:\source\repos\computergraphics_mit\assignment4\raytracer\raytracer\object3d.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+d:\source\repos\computergraphics_mit\assignment4\raytracer\raytracer\object3d.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  3 of 417 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  raytracer.vcxproj -> D:\source\repos\ComputerGraphics_MIT\assignment4\raytracer\Release\raytracer.exe
